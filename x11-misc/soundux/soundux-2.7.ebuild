@@ -7,7 +7,7 @@ inherit optfeature cmake
 
 DESCRIPTION="A cross-platform soundboard"
 HOMEPAGE="https://soundux.rocks"
-SRC_URI="https://github.com/Soundux/Soundux/releases/download/${PV}/soundux-${PV}.tar.gz -> ${P}.tar.gz"
+SRC_URI="https://github.com/Soundux/Soundux/releases/download/0.2.7/soundux-0.2.7.tar.gz"
 
 LICENSE="GPL-3"
 SLOT="0"
